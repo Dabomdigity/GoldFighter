@@ -16,7 +16,8 @@ Gold Fighter will include combat, a market interface, arena, 2-player action (La
 
 ### UI
 
-(to be added)
+![Lookie!](/GoldFighter/pixelArt.png)
+
 
 ### Resources
 
